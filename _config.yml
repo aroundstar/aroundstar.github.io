@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Hiran Sarkar"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
@@ -79,13 +79,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/skillbratz"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/around-star"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://linkedin.com/aroundstar"
 
 defaults:
   # _posts
