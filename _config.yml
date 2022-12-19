@@ -85,7 +85,7 @@ footer:
       url: "https://github.com/around-star"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-instagram"
-      url: "https://linkedin.com/aroundstar"
+      url: "https://linkedin.com/in/aroundstar"
 
 defaults:
   # _posts
